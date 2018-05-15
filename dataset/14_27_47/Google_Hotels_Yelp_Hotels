@@ -1,0 +1,59 @@
+14 27
+--- Collection 1 ---
+5ad8d8cf5ec43437b064d03d The Coffee Club Café - Q Super Centre
+5ad8e4485ec43437b064d0b0 The Coffee Club Café - Broadbeach
+5ad8ce5b5ec43437b064cfd4 Starbucks
+5ad8c6935ec43437b064cf86 Daark Espresso
+5ad8d78c5ec43437b064d030 Giri Kana Cafe
+5ad8561329c79f2d28a79e1c Willow Dining Room
+5ad85e0829c79f2d28a79e6c Longboards Laidback Eatery & Bar
+5ad8556629c79f2d28a79e15 Terraces Restaurant
+5ad85c0b29c79f2d28a79e58 Gemelli Italian
+5ad8d3f35ec43437b064d00c Zarraffa's Coffee Nerang
+5ad8585a29c79f2d28a79e33 Le Cafe Gourmand
+5ad8569029c79f2d28a79e21 Misono Japanese Steakhouse
+5ad8673029c79f2d28a79ec8 Wagyu-Ya on Chevron
+5ad85f0c29c79f2d28a79e76 Shogun Japanese Restaurant
+--- Collection 2 ---
+5ad5d6fb57ab260b7cc5a0d4 The Coffee Club
+5ad5d6e657ab260b7cc59e15 Longboards Laidback Eatery & Bar
+5ad5d6e757ab260b7cc59e3a The Coffee Club
+5ad5d6eb57ab260b7cc59efc Zarraffa's Coffee
+5ad5d6ea57ab260b7cc59eb5 Wagyu-Ya on Chevron
+5ad5d6e757ab260b7cc59e5e Yamagen Japanese Restaurant
+5ad5d6e757ab260b7cc59e63 Uchouten Japanese Restaurant
+5ad5d6e857ab260b7cc59e8d Misono Japanese Steak House
+5ad5d6f957ab260b7cc5a0bf Zarraffa's Coffee
+5ad5d6f357ab260b7cc59fdf Saki Japanese Restaurant
+5ad5d6eb57ab260b7cc59ed2 You Japanese Restaurant
+5ad5d6eb57ab260b7cc59ef4 Le Cafe Gourmand
+5ad5d6f157ab260b7cc59faa Giri Kana Cafe
+5ad5d6f857ab260b7cc5a069 Sagano Japanese Restaurant
+5ad5d6ea57ab260b7cc59eac Itoshin Japanese Restaurant
+5ad5d6f157ab260b7cc59fc3 Zarraffa's Coffee
+5ad5d6f357ab260b7cc59fdc Willow Dining Room
+5ad5d6e757ab260b7cc59e57 Starbucks
+5ad5d6e657ab260b7cc59e08 Daark Espresso
+5ad5d6e657ab260b7cc59e1c Gemelli Italian
+5ad5d6e857ab260b7cc59e6c Starbucks
+5ad5d6f957ab260b7cc5a098 The Coffee Club
+5ad5d6e857ab260b7cc59e95 Terraces Restaurant
+5ad5d6ea57ab260b7cc59ebf The Coffee Club
+5ad5d6f157ab260b7cc59fad Zarraffa's Coffee
+5ad5d6e857ab260b7cc59e6e Ten Japanese Restaurant
+5ad5d6fb57ab260b7cc5a0e2 Zarraffa's Coffee
+--- Scores ---
+0.20 0.78 0.20 0.81 0.84 0.78 0.76 0.81 0.81 0.81 0.78 0.76 0.84 0.78 0.78 0.81 0.89 0.92 0.84 0.86 0.92 0.20 0.76 0.20 0.81 0.76 0.81 
+0.18 0.82 0.18 0.82 0.85 0.85 0.82 0.85 0.82 0.88 0.85 0.73 0.82 0.85 0.85 0.82 0.85 0.91 0.88 0.82 0.91 0.18 0.79 0.18 0.82 0.82 0.82 
+0.93 0.84 0.93 0.88 0.89 0.89 0.86 0.85 0.88 0.83 0.87 0.88 0.86 0.85 0.85 0.88 1.00 0.00 0.79 1.00 0.00 0.93 0.84 0.93 0.88 0.87 0.88 
+1.00 0.78 1.00 0.82 0.79 0.70 0.79 0.78 0.82 0.71 0.74 0.81 0.93 0.69 0.78 0.82 0.89 0.79 0.00 1.00 0.79 1.00 0.68 1.00 0.82 0.74 0.82 
+0.87 0.75 0.87 0.65 0.84 0.81 0.82 0.74 0.65 0.75 0.83 0.88 0.00 0.77 0.78 0.65 0.78 0.86 0.93 0.80 0.86 0.87 0.79 0.87 0.65 0.83 0.65 
+0.89 0.84 0.89 1.00 0.84 0.85 0.86 0.81 1.00 0.88 0.91 0.89 0.78 0.85 0.85 1.00 0.00 1.00 0.89 0.89 1.00 0.89 0.95 0.89 1.00 0.91 1.00 
+0.88 0.00 0.88 0.84 0.84 0.81 0.81 0.78 0.84 0.81 0.81 0.84 0.75 0.78 0.81 0.84 0.84 0.84 0.78 0.81 0.84 0.88 0.84 0.88 0.84 0.81 0.84 
+0.79 0.84 0.79 0.79 0.89 0.44 0.43 0.81 0.79 0.42 0.39 0.63 0.79 0.46 0.44 0.79 0.95 0.84 0.68 0.68 0.84 0.79 0.00 0.79 0.79 0.30 0.79 
+0.93 0.81 0.93 1.00 0.84 0.74 0.79 0.89 1.00 0.79 0.78 0.75 0.80 0.77 0.81 1.00 0.89 1.00 1.00 0.00 1.00 0.93 0.68 0.93 1.00 0.74 1.00 
+0.67 0.81 0.67 0.10 0.75 0.74 0.79 0.93 0.10 0.79 0.79 0.75 0.75 0.77 0.81 0.10 0.88 0.92 0.79 0.88 0.92 0.67 0.62 0.67 0.10 0.79 0.10 
+0.75 0.84 0.75 0.88 0.89 0.70 0.71 0.85 0.88 0.71 0.70 0.00 0.88 0.73 0.74 0.88 0.89 0.88 0.81 0.75 0.88 0.75 0.63 0.75 0.88 0.65 0.88 
+0.81 0.81 0.81 0.85 0.81 0.56 0.57 0.04 0.85 0.54 0.54 0.85 0.73 0.50 0.56 0.85 0.81 0.85 0.77 0.88 0.85 0.81 0.81 0.81 0.85 0.54 0.85 
+0.89 0.84 0.89 0.79 0.00 0.74 0.79 0.81 0.79 0.79 0.83 0.89 0.84 0.73 0.81 0.79 0.84 0.89 0.79 0.84 0.89 0.89 0.89 0.89 0.79 0.83 0.79 
+0.77 0.81 0.77 0.88 0.77 0.19 0.18 0.59 0.88 0.19 0.15 0.73 0.81 0.15 0.19 0.88 0.85 0.85 0.77 0.77 0.85 0.77 0.46 0.77 0.88 0.19 0.88 
